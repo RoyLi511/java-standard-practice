@@ -1,3 +1,5 @@
+package src;
+
 public class findMax {
 
     public static int findMax(int[] array) {

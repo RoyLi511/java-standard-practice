@@ -1,3 +1,5 @@
+package src;
+
 public class printEvery3 {
 
     public static void printEvery3() {
